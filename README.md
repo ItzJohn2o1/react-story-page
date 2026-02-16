@@ -8,6 +8,3 @@ This project is built using React and demonstrates component-based design patter
 - **Header**: Displays the story title
 - **Content**: Contains the story narrative (2-3 paragraphs)
 - **Footer**: Shows the moral of the story
-
-## Project Structure
-
